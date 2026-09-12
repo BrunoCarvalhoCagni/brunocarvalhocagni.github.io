@@ -50,7 +50,7 @@ export const en = {
           role: "Fullstack Developer",
           company: "4Medic",
           period: "Jul 2023 – Jun 2026",
-          description: "Led the full frontend modernization of a legacy healthcare platform with React, implemented Docker containerization for microservices architecture, and maintained critical APIs in Laravel and React Native.",
+          description: "Led the full frontend modernization of a legacy platform, implemented Docker containerization for microservices architecture using Docker, Laravel and React.",
         },
         {
           role: "Trainee Developer",

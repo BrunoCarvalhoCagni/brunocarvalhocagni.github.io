@@ -50,7 +50,7 @@ export const pt = {
           role: "Desenvolvedor Fullstack",
           company: "4Medic",
           period: "Jul 2023 – Jun 2026",
-          description: "Liderança na refatoração completa de front-end legado com React, conteinerização de ambiente com Docker em arquitetura de microsserviços e desenvolvimento fullstack com Laravel e React Native.",
+          description: "Liderança na refatoração completa de front-end legado, conteinerização de ambiente com Docker em arquitetura de microsserviços e desenvolvimento fullstack com Laravel e React.",
         },
         {
           role: "Desenvolvedor Trainee",
