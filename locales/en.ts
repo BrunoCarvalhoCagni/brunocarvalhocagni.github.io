@@ -71,7 +71,7 @@ export const en = {
     },
     contact: {
       title: "Let's Connect",
-      description: "I am actively exploring opportunities as a Fullstack / Backend / Distributed Systems Engineer. Feel free to reach out.",
+      description: "My inbox is always open. Feel free to reach out.",
       button: "Send Email",
     },
   };

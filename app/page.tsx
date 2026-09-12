@@ -17,11 +17,11 @@ export default function Home() {
   const { t } = useLanguage();
 
   return (
-    <div className="min-h-screen bg-[#0B0F17] text-slate-100 selection:bg-indigo-500 selection:text-white relative font-sans">
+    <div className="min-h-screen bg-[#0B0F17] text-slate-100 selection:bg-indigo-500 selection:text-white relative font-sans overflow-x-hidden w-full">
       <Navbar />
 
       {/* Decorative Glow */}
-      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[350px] bg-indigo-600/10 blur-[130px] pointer-events-none rounded-full" />
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[500px] h-[300px] bg-indigo-600/10 blur-[100px] pointer-events-none rounded-full" />
 
       <main className="max-w-5xl mx-auto px-6 pt-32 pb-24 space-y-28">
         
@@ -30,9 +30,9 @@ export default function Home() {
       
 
           <div className="space-y-3">
-            <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-white">
-              Bruno Carvalho Cagni
-            </h1>
+          <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white break-words">
+            Bruno Carvalho Cagni
+          </h1>
             <p className="text-xl sm:text-2xl text-indigo-400 font-medium">
               {t.hero.role}
             </p>

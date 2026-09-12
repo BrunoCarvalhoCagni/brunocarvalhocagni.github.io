@@ -71,7 +71,7 @@ export const pt = {
     },
     contact: {
       title: "Vamos Conversar?",
-      description: "Estou aberto a oportunidades como Engenheiro de Software Fullstack / Backend. Envie uma mensagem e vamos construir algo incrível.",
+      description: "Minha caixa de entrada está sempre aberta. Sinta-se à vontade para mandar uma mensagem.",
       button: "Enviar E-mail",
     },
   };
